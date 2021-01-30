@@ -1,2 +1,2 @@
 # CV
-i used table tags to create a CV
+I used a table tags to create a CV
